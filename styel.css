@@ -108,7 +108,7 @@ ul{
  @media (max-width: 767px) {
     .header .main-nav  li  a {
       padding: 10px;
-      font-size: 14px;
+      font-size: 19px;
       height: 40px;
     }
   }
