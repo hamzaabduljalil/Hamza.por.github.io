@@ -382,6 +382,9 @@ font-size: 19px;
     padding: 0;
     padding-top: 60px;
 }
+.tit .imgss {
+  display: none;
+}
 }
 @media (min-width: 768px) {
 .tit .imgss {
@@ -396,7 +399,7 @@ font-size: 19px;
     display: grid;
     grid-template-columns: repeat(auto-fill ,minmax(250px , 1fr));
     gap: 40px;
-    padding-top: 100px;
+    padding: 100px 0 0 0;
 }
 .work .container .box{
     box-shadow: 0 2px 15px rgb(0 0 0 / 10%);
@@ -506,6 +509,7 @@ font-size: 19px;
   grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
 grid-column-gap: 115px;
     color:white ;
+    padding: 0;
 }
 .footer .fotter-text{
     font-size: 25px;
