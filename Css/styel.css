@@ -9,6 +9,7 @@ a{
 }
 body{
   font-family: 'Cairo', sans-serif;
+  background-color: red;
 }
 .scroll{
     background-color: var(--main-color);
